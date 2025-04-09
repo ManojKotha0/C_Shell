@@ -1,0 +1,11 @@
+hop ..
+hop -
+hop
+hop ~
+reveal
+reveal ./final
+reveal ~l
+reveal -l
+exit
+EXIT
+exit
